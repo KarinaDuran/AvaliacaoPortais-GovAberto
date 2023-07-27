@@ -1,0 +1,45 @@
+Estado,Disponível,Link,Nota
+Acre (AC),Incompleto,"http://sefaz.acre.gov.br/2021/?p=9205
+https://transparencia.ac.gov.br/#/dashboard ",Dados somente como anexo do RREO em formato pdf
+Alagoas (AL),Sim,https://transparencia.al.gov.br/despesa/despesas-por-funcao/ ,"- Possui possibilidade de criar gráficos interativos com diferentes filtros (ex. permite integrar diferentes anos)
+- Possui formato json"
+Amapá (AP),Sim,http://www.transparencia.ap.gov.br/consulta/2/33/despesa/fun%C3%A7%C3%A3o,"Possui possibilidade de mostrar os dados em gráficos de pizza e tabela, mas somente de um ano"
+Amazonas (AM),Sim,https://sistemas.sefaz.am.gov.br/transpprd/mnt/despesa/execDespAno.do   https://www.transparencia.am.gov.br/,
+Bahia (BA),Sim,"https://www.tce.ba.gov.br/dados-abertos/despesas
+https://tcebiprdl.tce.ba.gov.br/mirante/bi/?perspective=classicviewer&pathRef=.public_folders%2FP%25C3%25BAblico%2FMenu%2BInicial%2BP%25C3%25BAblico&id=i6190BFA3406D48CDBC71275F0960B33C&objRef=i6190BFA3406D48CDBC71275F0960B33C&action=run&format=HTML&prompt=true&cmPropStr=%7B%22id%22%3A%22i6190BFA3406D48CDBC71275F0960B33C%22%2C%22type%22%3A%22report%22%2C%22defaultName%22%3A%22Menu%20Inicial%20P%C3%BAblico%22%2C%22permissions%22%3A%5B%22execute%22%2C%22read%22%2C%22traverse%22%5D%7D ",
+Ceará (CE),Sim,"http://web3.seplag.ce.gov.br/siofconsulta/Paginas/frm_consulta_execucao.aspx
+https://cearatransparente.ce.gov.br/portal-da-transparencia/despesas/despesas-do-poder-executivo?search=&node_types=function/secretary/organ/sub_function/government_program/government_action/economic_category/application_modality/expense_element/administrative_region/expense_nature/qualified_resource_source/finance_group&nodes=secretary&cod_elemento_despesa=+&cod_modalidade_aplicacao=+&cod_grupo_desp=+&cod_categoria_economica=+&cod_fonte=+&integration_supports_government_program_id=+&cod_subfuncao=+&cod_funcao=+&integration_supports_organ_id=+&integration_supports_secretary_id=+&month_end=12&month_start=1&year=2022&locale=pt-BR&page=&sort_direction=&sort_column=&utf8=%E2%9C%93&stats_month_end=6&stats_month_start=1&stats_year=2022&__=__ ",Possui gráficos de colunas interativos com poucos filtros
+Distrito Federal (DF),Sim,"https://www.transparencia.df.gov.br/#/despesas/por-funcao 
+https://www.transparencia.df.gov.br/#/despesas/consulta-dinamica ","Possui gráfico TreeMap das despesas por função, pesquisa dinâmica e dados abertos "
+Espírito Santo (ES),Sim,"https://dados.es.gov.br/dataset/portal-da-transparencia-despesas-execucao-orcamentaria-e-financeira
+https://transparencia.es.gov.br/Despesa# ",Possui pesquisa dinâmica que gera gráficos automaticamente ou permite plotar gráficos com as variáveis que quiser
+Goiás (GO),Sim,"http://www.transparencia.go.gov.br/portaldatransparencia/institucional/dados-abertos 
+http://www.transparencia.go.gov.br/portaldatransparencia/gastos-governamentais/execucao-orcamentaria ",Possui pesquisa dinâmica com filtros que geram gráficos automáticos e possui dados abertos
+Maranhão (MA),Sim,"https://dados.ma.gov.br/?q=search&query=despesa
+https://www.transparencia.ma.gov.br/app/v2/despesas 
+https://www.transparencia.ma.gov.br/app/v2/fique_por_dentro_funcao ","Possui pesquisa dinâmica, possui dados abertos e possui um painel específico para funções que produz TreeMap, outros gráficos, informações e comparações"
+Mato Grosso (MT),Sim,https://www.transparencia.mt.gov.br/?c=35647756 ,"Dados por função disponíveis, dados abertos indisponíveis"
+Mato Grosso do Sul (MS),Incompleto,http://www.transparencia.ms.gov.br/#/ResponsabilidadeFiscal ,"Somente pelo RREO, já que nas discriminações da despesa e dos dados abertos não há categoria por função"
+Minas Gerais (MG),Sim,"https://dados.mg.gov.br/it/dataset
+https://www.transparencia.mg.gov.br/despesa-estado/despesa/despesa-funcoes/2023/01-01-2023/31-12-2023/0 ",Possui pesquisa dinâmica e dados abertos
+Pará (PA),Não,"https://www.transparencia.pa.gov.br
+http://www.sefa.pa.gov.br/index.php/ContabilidadeGeraldoEstado/19635-2022 ","- Não consta no portal da transparência: as despesas só podem ser classificadas e buscadas por órgão e o RREO não está disponível
+- RREOs encontrados somente no site da SEFA em formato pdf de publicação do DO"
+Paraíba (PB),Sim,https://transparencia.pb.gov.br/despesas/despesa-orcamentaria,
+Paraná (PR),Sim,http://www.transparencia.pr.gov.br/pte/despesas/consultalivre,Possui pesquisa dinâmica e dados abertos
+Pernambuco (PE),Incompleto,http://web.transparencia.pe.gov.br/despesas/despesa-detalhada/,"- Na pesquisa detalhada da despesa têm filtros de todas as classificações da despesa menos a classificação funcional
+- RREOS em pdf"
+Piauí (PI),Sim,https://transparencia.pi.gov.br/ords/f?p=101:1::::::,
+Rio de Janeiro (RJ),Sim,http://www.fazenda.rj.gov.br/transparencia/faces/OrcamentoTematico/despesa?_afrLoop=80962336002949853&_afrWindowMode=0&_afrWindowId=11z5zg63s2&_adf.ctrl-state=b5kx690tn_28,Possui pesquisa dinâmica
+Rio Grande do Norte (RN),Sim,"http://www.transparencia.rn.gov.br/despesas 
+http://www.transparencia.rn.gov.br/gastos-diretos ","- Possui busca dinâmica
+- Somente formato xls
+- Possui gráfico das despesas por função "
+Rio Grande do Sul (RS),Sim,https://www.transparencia.rs.gov.br/despesas/gastos-diretos/despesa-detalhada/dados/,Posui busca dinâmica e dados abertos
+Rondônia (RO),Incompleto,https://transparencia.ro.gov.br/?pEncPastaId=tPdFQ-lDfvKV9OlzZD0aIXmc-9CKW0TYmATl_5NXdVlVIbkYUCfVWLGogl_RyQ5ddlKcF6u_VDZLHtSA-Z4ElgL3gWJB77tiTExlUL0mQm43QU4L#! ,"- Na seção de despesas, não tem opção de classificação
+- RREOs em pdf"
+Roraima (RR),Sim,https://www.transparencia.rr.gov.br/ ,- Possui gráfico pelas funções somente em xls
+Santa Catarina (SC),Sim,https://transparencia.sc.gov.br/despesa,Dados completos no csv apenas
+São Paulo (SP),Sim,https://www.fazenda.sp.gov.br/sigeolei131/paginas/consultadespesaano.aspx?orgao=  https://www.transparencia.sp.gov.br/,
+Sergipe (SE),Sim,https://www.sefaz.se.gov.br/transparencia/SitePages/execucao_funcao_subfuncao.aspx,Três pontos nos gráficos para exportar
+Tocantins (TO),Sim,https://www.transparencia.to.gov.br/#!despesas_públicas,
